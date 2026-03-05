@@ -7,4 +7,10 @@ add_executable(problema2
         main.cpp
         Student.cpp
         StudentCompare.cpp
+        "../../lab-03/problema 1/Math.h"
+        "../../lab-03/problema 1/Math.cpp"
+        "../../lab-03/problema 1/main.cpp"
+        "../../lab-03/problema 2/Canvas.h"
+        "../../lab-03/problema 2/Canvas.cpp"
+        "../../lab-03/problema 2/main.cpp"
 )
